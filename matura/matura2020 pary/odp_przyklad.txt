@@ -1,0 +1,122 @@
+
+4.1: 
+
+24 5 19
+6 3 3
+6 3 3
+
+4.2: 
+
+aaaaa 5
+bb 2
+cccccc 6
+bbbb 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+tttt 4
+
+4.3: 
+6 abbbbc
+
+
+['3', 'asq']
+['9', 'gtttwrtyx']
+['3', 'wgb']
+['3', 'rty']
+['9', 'opllggggt']
+['3', 'ast']
+['3', 'iow']
+['3', 'asd']
