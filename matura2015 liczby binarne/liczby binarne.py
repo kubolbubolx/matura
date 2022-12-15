@@ -48,9 +48,6 @@ def zad3(file):
     return line_counter_for_min, line_counter_for_max
 
 
-
-
-
 file = open('liczby.txt', 'r')
 filew = open('wyniki', 'w')
 
