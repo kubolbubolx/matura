@@ -1,0 +1,10 @@
+zad1
+422
+
+zad2
+przez 2: 500
+przez 3: 123
+
+zad3
+wiersz dla min: 859
+wiersz dla max: 925
