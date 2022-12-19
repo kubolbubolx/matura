@@ -1,0 +1,12 @@
+zad1
+max - 221
+min - 7
+
+zad2
+149
+
+zad3
+
+
+zad4
+5
