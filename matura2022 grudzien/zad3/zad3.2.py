@@ -34,4 +34,4 @@ sorted_goldbach_results = sorted(
 
 print(f'lower goldbach result: {sorted_goldbach_results[0]}')
 print(f'higher goldbach result: {sorted_goldbach_results[-1]}')
-print(f'czas działania tego gówna: {round(time.time() - t1)}')
+print(f'czas działania: {round(time.time() - t1)}')
