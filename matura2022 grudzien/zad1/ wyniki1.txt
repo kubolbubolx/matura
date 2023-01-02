@@ -1,0 +1,10 @@
+zad1
+5030
+
+zad2
+B 1001:1004
+
+zad3
+liczba pass: 6
+najdluzsza passa: B
+dlugosc najdluzszej passy: 15
